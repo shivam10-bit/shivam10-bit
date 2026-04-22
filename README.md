@@ -18,6 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shrivastava-90a6282a7)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam10-bit)
+[![Portfolio-Site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-portfolio-v1.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=shivam10-bit&style=for-the-badge&color=1a8cff&label=PROFILE+VIEWS)](https://github.com/shivam10-bit)
 
 </div>
