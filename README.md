@@ -1,161 +1,144 @@
-<!-- ANIMATED MATRIX/PARTICLE HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d2157,100:1a8cff&height=280&section=header&text=SHIVAM%20SHRIVASTAVA&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=âš¡%20Web%20Developer%20%7C%20Frontend%20Enthusiast%20%7C%20Code%20Architect%20âš¡&descAlignY=62&descSize=17&descColor=7ec8e3&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
-</div>
 
-<!-- MATRIX RAIN TYPING ANIMATION -->
-<div align="center">
-  <br/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Shivam%20Shrivastava&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=58&descColor=aaaaaa&animation=fadeIn" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%3E+Initializing+Shivam.exe...+%E2%9C%85;%3E+Loading+Frontend+Skills...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+React+Native+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;%3E+Building+beautiful+things+with+code+%F0%9F%9A%80;%3E+KIIT+University+%7C+Bhubaneswar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+sudo+apt+install+creativity+--upgrade)](https://git.io/typing-svg)
-
-  <br/>
-
-  <!-- SOCIAL BADGES â€” NEON GLOW STYLE -->
-  <a href="https://www.linkedin.com/in/shivam-shrivastava-90a6282a7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shivam10-bit">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shivam10-bit&style=for-the-badge&color=00d4ff&label=VISITORS&labelColor=0d1117" />
-</div>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+at+the+edge+of+web+%26+AI+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP;Open+to+impactful+roles+%E2%9C%A6)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ABOUT ME â€” TERMINAL STYLE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- BADGES ROW -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shrivastava-90a6282a7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shivam10-bit)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamshrivatava004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-```bash
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘                    ~/shivam10-bit $ whoami                   â•‘
-â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
-â•‘                                                              â•‘
-â•‘  ðŸ‘¤  Name     â†’  Shivam Shrivastava                         â•‘
-â•‘  ðŸ«  College  â†’  KIIT University, Bhubaneswar               â•‘
-â•‘  ðŸŒ  Location â†’  India ðŸ‡®ðŸ‡³                                   â•‘
-â•‘  ðŸ’¼  Role     â†’  Web Dev | Frontend Enthusiast              â•‘
-â•‘  ðŸ”­  Building â†’  Full-Stack & Mobile Applications           â•‘
-â•‘  ðŸ§   Learning â†’  DSA, System Design, Advanced React         â•‘
-â•‘  âš¡  Passion  â†’  Turning coffee â˜• into clean UI             â•‘
-â•‘  ðŸŽ¯  Goal     â†’  Build things that make people go  "Woah!"  â•‘
-â•‘                                                              â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<br/><br/>
+
+</div>
+
+---
+
+## `whoami`
+
+```typescript
+const shivam: Developer = {
+  name:       "Shivam Shrivastava",
+  location:   "Bhubaneswar, Odisha, India 🇮🇳",
+  education:  "B.Tech IT · KIIT University · 2023–Present · CGPA: 7.57",
+  roles:      ["Full-Stack Developer", "AI/ML Engineer", "Computer Vision Enthusiast"],
+  currentlyBuilding: "Lie Detector — YouTube Comment Forensics Tool (BERT + NLP)",
+  lookingFor: "Internships & Full-time roles in SWE / AI",
+  contact:    "shivamshrivatava004@gmail.com",
+  funFact:    "I shipped a real-time CV system to enterprise before my 2nd year ended 🎯"
+};
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
-<!-- TECH STACK â€” ULTRA DEFINED SKILL BADGES -->
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
 
-## âš¡ TECH ARSENAL
+### Languages
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=mysql&logoColor=white)
 
-<br/>
+### Frontend
+![React](https://img.shields.io/badge/React.js-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0a0a0a?style=flat-square&logo=redux&logoColor=764ABC)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
 
-### ã€” LANGUAGES ã€•
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0a0a0a?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-0a0a0a?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0a0a0a?style=flat-square&logo=postman&logoColor=FF6C37)
 
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp&theme=dark&perline=4" />
+### AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![BERT](https://img.shields.io/badge/BERT_NLP-0a0a0a?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=150458)
 
-<br/><br/>
+### Databases & Infra
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0a0a?style=flat-square&logo=cloudinary&logoColor=3448C5)
+![Razorpay](https://img.shields.io/badge/Razorpay-0a0a0a?style=flat-square&logo=razorpay&logoColor=02042B)
 
-### ã€” FRONTEND & MOBILE ã€•
-
-<img src="https://skillicons.dev/icons?i=react,html,css,expo&theme=dark&perline=4" />
-
-<br/><br/>
-
-### ã€” BACKEND & DATABASE ã€•
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark&perline=4" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48"/>
-
-<br/><br/>
-
-### ã€” TOOLS & ENVIRONMENT ã€•
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
+### Tools
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=flat-square&logo=flutter&logoColor=02569B)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<br/>
+## 🏗️ Featured Projects
 
-<!-- FEATURED PROJECTS â€” CARD STYLE -->
-<div align="center">
-
-## ðŸš€ FEATURED PROJECTS
-
-</div>
-
-<br/>
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ­ Attendance Processing System
-> *Real-world internship project @ UltraTech Cement (ACW)*
+### 🔍 Lie Detector
+**YouTube Comment Forensics Tool**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+Detects inauthentic comments on YouTube videos using NLP and ML. Fetches & preprocesses comments via YouTube Data API, classifies them with a pre-trained BERT model for sentiment & authenticity scoring. Extending toward bot, promoter, and spam detection.
 
-Automated punch-in/out data processor. Fetches from SQL Server, handles A/B/C/General shifts, exports formatted Excel reports â€” **auto-refreshing every 5 minutes**.
+`Python` `BERT` `NLP` `Flutter` `React.js` `YouTube Data API` `ML`
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shivam10-bit/Internship-Project)
+*Dec 2025 – Mar 2026*
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ“± Hackathon25 Mobile App
-> *Full-featured hackathon management platform*
+### 📚 StudyNotion
+**Full-Stack EdTech Platform**
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+Comprehensive MERN platform with Student / Instructor / Admin roles. Razorpay webhooks for payment consistency, JWT + bcrypt auth, OTP via Nodemailer, Redux Toolkit state, Cloudinary media delivery for video lectures.
 
-Dark-themed mobile app with JWT auth, live project tracking, team formation, leaderboards & glass morphism UI. Built for a **hackathon competition**.
+`React.js` `Node.js` `Express.js` `MongoDB` `Redux` `Razorpay` `Cloudinary` `JWT`
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shivam10-bit/Hackathon)
+*Oct 2025 – Jan 2026*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸŒ Full-Stack Web Project
-> *Client-server architecture exploration*
+### 👁️ Automated Attendance System
+**Enterprise Computer Vision Deployment**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+Real-time face recognition attendance tracker deployed at **Aditya Birla Group / UltraTech Cement**. Secure database management, automated exportable compliance reports, and HR analytics at enterprise scale.
 
-Separate frontend & backend repositories exploring REST APIs, responsive UI design and component architecture.
+`Python` `OpenCV` `NumPy` `Pandas` `Face Recognition`
 
-[![Frontend](https://img.shields.io/badge/FRONTEND-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shivam10-bit/frontend)
-[![Backend](https://img.shields.io/badge/BACKEND-1a8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam10-bit/backend)
+*May 2025 – Jun 2025*
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ§® DSA Practice Hub
-> *Sharpening the fundamentals*
+### 🚧 More Coming Soon
+**Always Building**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+Currently exploring intersections of web and intelligence. New projects in progress — watch this space.
 
-A growing collection of algorithm implementations and array problem solutions â€” grinding through **data structures & competitive programming** problems.
+`React.js` `Node.js` `Python` `AI/ML`
 
-[![Algo](https://img.shields.io/badge/ALGORITHMS-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shivam10-bit/Algo)
-[![Arrays](https://img.shields.io/badge/ARRAYS-1a8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam10-bit/array)
+*2026 →*
 
 </td>
 </tr>
@@ -163,55 +146,93 @@ A growing collection of algorithm implementations and array problem solutions â
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## 💼 Experience
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  IT Intern — Computer Vision & AI                          2024     │
+│  Aditya Cement Works (ACW) · UltraTech Cement                      │
+│  Aditya Birla Group                                                 │
+├─────────────────────────────────────────────────────────────────────┤
+│  ▸ Designed & deployed real-time automated attendance system        │
+│  ▸ Built face recognition model for contactless employee tracking   │
+│  ▸ Integrated automated record management & exportable reports      │
+│  ▸ Delivered enterprise-grade UI adopted across all end-users       │
+│                                                                     │
+│  Stack: Python · OpenCV · NumPy · Pandas · Face Recognition        │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<!-- GITHUB STATS â€” DARK THEMED -->
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-## ðŸ“Š STATS & ACTIVITY
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivam10-bit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam10-bit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam10-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam10-bit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shivam10-bit&theme=dark&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=7ec8e3&dates=7ec8e3&border_radius=10" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam10-bit&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam10-bit&bg_color=0d1117&color=00d4ff&line=1a8cff&point=00d4ff&area=true&area_color=0d2157&hide_border=true&radius=10" width="95%"/>
+<!-- Activity graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam10-bit&theme=github-compact&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🏛️ **KIIT University** | B.Tech — Information Technology · Aug 2023 – Present · Bhubaneswar, Odisha |
+| 📊 **CGPA** | 7.57 |
+| 🏆 **MERN Stack Bootcamp** | CodeHelp · Full-stack Web Development |
+| ⚡ **LeetCode** | Active problem solver — Data Structures & Algorithms |
 
 <br/>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
+---
+
+## 📬 Let's Connect
+
 <div align="center">
 
-## ðŸ CONTRIBUTION SNAKE
+I'm actively looking for **internships** and **full-time roles** in software engineering and AI/ML.  
+If you're building something impactful — let's talk.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam10-bit/shivam10-bit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam10-bit/shivam10-bit/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shivam10-bit/shivam10-bit/output/github-snake-dark.svg" width="95%" />
-</picture>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shrivastava-90a6282a7)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamshrivatava004@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam10-bit)
+
+<br/>
+
+📞 **+91 90578 18622**
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8cff,40:0d2157,100:000000&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer&animation=fadeIn"/>
+
+*"The best code is the code that ships and solves real problems."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivam10-bit&color=000000&style=flat-square&label=Profile+Views)
 
 </div>
